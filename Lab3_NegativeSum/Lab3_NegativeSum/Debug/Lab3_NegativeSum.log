@@ -1,0 +1,4 @@
+﻿  Sum.cpp
+C:\Users\TaLasha\source\repos\Lab3_NegativeSum\Lab3_NegativeSum\Sum.cpp(14,5): error C2059: syntax error: '>'
+C:\Users\TaLasha\source\repos\Lab3_NegativeSum\Lab3_NegativeSum\Sum.cpp(14,26): error C2143: syntax error: missing ';' before '{'
+C:\Users\TaLasha\source\repos\Lab3_NegativeSum\Lab3_NegativeSum\Sum.cpp(11,14): warning C4390: ';': empty controlled statement found; is this the intent?
