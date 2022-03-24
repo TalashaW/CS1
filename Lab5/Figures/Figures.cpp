@@ -1,5 +1,5 @@
 #include <iostream>
-#include "figures.h"
+#include "figures.hpp"
 
 using std::cin; using std::cout; using std::endl;
 
